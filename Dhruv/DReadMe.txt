@@ -1,8 +1,3 @@
-HELLOOOOO Suckers!!!!11
-Do not dare to modify into the files that are under the folder named, " Dhruv " 
-if you did then imma chase you and rape you...
-
-
-
-
-jk, just don't modify it that's it ...feel free to run it ( on your risks )
+HELLOO FRDS!
+Welcome to the repo, this is where i create nome python tools that are generally used in cybersecurty and other stuff.
+I have used AI to write the part of the code.
